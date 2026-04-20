@@ -43,8 +43,17 @@ captures/
 *.iml
 .idea/
 
-# Kotlin
+# Kotlin/ JVM build outputs
 .kotlin/
+out/
+target/
+
+# Environment / secrets
+.env
+*.env
+
+# Songs
+spotify_backend/src/main/resources/static/songs/
 
 # Keystore files
 # Uncomment the following lines if you do not want to check your keystore files in.
