@@ -6,7 +6,7 @@ A production-quality Android music streaming app built with **Jetpack Compose**,
 
 | Home | Favorite |
 |:----:|:---------:|
-| ![Playback Demo](./app/src/main/res/screenshot/Playback.GIF) | ![Favourite](./app/src/main/res/screenshot/Favorite.GIF) |
+| ![Playback Demo](./spotify/app/src/main/res/screenshot/Playback.GIF) | ![Favourite](./spotify/app/src/main/res/screenshot/Favorite.GIF) |
 
 ## Features
 
