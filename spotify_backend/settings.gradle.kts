@@ -1,0 +1,1 @@
+rootProject.name = "com.frances.spotify_backend"
